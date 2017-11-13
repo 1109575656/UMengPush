@@ -1,5 +1,8 @@
-/bin/
-/obj/
-/packages/
-/Properties/
-/.vs/
+bin/
+obj/
+packages/
+Properties/
+.vs/
+.suo
+*.user
+*.csproj
