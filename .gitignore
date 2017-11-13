@@ -1,4 +1,5 @@
-/bin
-/obj
+/UMengPush/bin
+/UMengPush/obj
 /packages
-/Properties
+/UMengPush/Properties
+/.vs
