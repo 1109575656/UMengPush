@@ -1,0 +1,8 @@
+c:\users\dell\documents\visual studio 2015\Projects\UMengPush\UMengPush\bin\Debug\UMengPush.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\UMengPush\UMengPush\bin\Debug\UMengPush.exe
+c:\users\dell\documents\visual studio 2015\Projects\UMengPush\UMengPush\bin\Debug\UMengPush.pdb
+c:\users\dell\documents\visual studio 2015\Projects\UMengPush\UMengPush\bin\Debug\Newtonsoft.Json.dll
+c:\users\dell\documents\visual studio 2015\Projects\UMengPush\UMengPush\bin\Debug\Newtonsoft.Json.xml
+c:\users\dell\documents\visual studio 2015\Projects\UMengPush\UMengPush\obj\Debug\UMengPush.exe
+c:\users\dell\documents\visual studio 2015\Projects\UMengPush\UMengPush\obj\Debug\UMengPush.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\UMengPush\UMengPush\obj\Debug\UMengPush.csprojResolveAssemblyReference.cache
